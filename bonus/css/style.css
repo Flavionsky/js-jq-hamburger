@@ -1,0 +1,10 @@
+.hidden_element{
+  display: none;
+  background-color: lightgrey;
+}
+.bi-x-square{
+  margin-top: 10px;
+  margin-right: 10px;
+  float: right;
+  font-size: 25px;
+}
